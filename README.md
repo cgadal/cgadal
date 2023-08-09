@@ -9,5 +9,5 @@
 
 I recently organised my repositories into organizations. Hence you can not find them inside my profiles, but inside the organizations' pages, listed at the bottom left of this page. Most interesting organizations are probably:
 - :movie_camera: [cgadal-presentations](https://github.com/orgs/cgadal-presentations/repositories)
-- :newspaper: [cgadal-papers](https://github.com/cgadal-papers/repositories)
-- :computer: [cgadal-pythonpackages](https://github.com/cgadal-pythonpackages/repositories)
+- :newspaper: [cgadal-papers](https://github.com/orgs/cgadal-papers/repositories)
+- :computer: [cgadal-pythonpackages](https://github.com/orgs/cgadal-pythonpackages/repositories)
